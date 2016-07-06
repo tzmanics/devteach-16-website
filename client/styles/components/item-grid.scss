@@ -1,0 +1,12 @@
+.items-grid {
+  width: 50%;
+  margin: 0 auto;
+  li {
+    float: left;
+    margin: .25em;
+    h1, h3 {
+      margin: 0;
+      text-align: right;
+    }
+  }
+}

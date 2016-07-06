@@ -1,0 +1,20 @@
+// Config
+@import
+  'normalize';
+
+@import
+  'config/colors',
+  'config/fonts',
+  'config/globals';
+
+// Layouts
+@import
+  'layouts/default';
+
+// Containers
+@import
+  'containers/home';
+
+// Components
+@import
+  'components/item-grid';
